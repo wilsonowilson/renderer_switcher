@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/renderer_switcher.iml" filepath="$PROJECT_DIR$/renderer_switcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/renderer_switcher_android.iml" filepath="$PROJECT_DIR$/android/renderer_switcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/renderer_switcher_example_android.iml" filepath="$PROJECT_DIR$/example/android/renderer_switcher_example_android.iml" />
+    </modules>
+  </component>
+</project>
